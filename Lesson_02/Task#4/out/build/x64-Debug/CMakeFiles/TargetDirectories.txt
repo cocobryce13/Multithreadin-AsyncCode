@@ -1,0 +1,4 @@
+C:/C++/Multithreadin&AsyncCode/Lesson_02/Task#4/out/build/x64-Debug/CMakeFiles/tcp_server.dir
+C:/C++/Multithreadin&AsyncCode/Lesson_02/Task#4/out/build/x64-Debug/CMakeFiles/tcp_client.dir
+C:/C++/Multithreadin&AsyncCode/Lesson_02/Task#4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/C++/Multithreadin&AsyncCode/Lesson_02/Task#4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

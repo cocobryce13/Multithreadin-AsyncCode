@@ -1,0 +1,5 @@
+# ninja log v6
+13	1050	7765302142767820	CMakeFiles/tcp_client.dir/src/client.cpp.obj	413fa4e7ac93ddbd
+8	1090	7765302142709598	CMakeFiles/tcp_server.dir/src/server.cpp.obj	2faa1ee38cc11d8b
+1051	1354	7765302153147220	tcp_client.exe	9ed69d0a204bdf67
+1090	1379	7765302153547071	tcp_server.exe	4db09efa22be3712
